@@ -1,0 +1,7 @@
+DEPENDENCIES
+  git
+    path: .
+    metadata: true
+
+GRAPH
+  git (0.1.0)
